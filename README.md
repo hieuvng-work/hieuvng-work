@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nguyễn Văn Hiếu]
+# 👋 Hi, I'm Hieu Nguyen Van
 
 🎓 **Bachelor of Electronics & Telecommunication Engineering**  
 📡 **Major: Telecommunication & Network**
