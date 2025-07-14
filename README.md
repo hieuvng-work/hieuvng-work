@@ -20,7 +20,7 @@ Currently, I enjoy working on projects that blend **telecommunication theory** w
 ## 🛠️ Technical Skills
 
 - **Languages & Tools:**  
-  `Excel` | `MATLAB` | `Matlab` | `Git` | `Cisco Packet Tracer`
+  `Excel` | `MATLAB` | `Python` | `Git` | `Cisco Packet Tracer`
 
 - **Areas of Interest:**  
   - Wireless Communication (4G/LTE, 5G,...)  
