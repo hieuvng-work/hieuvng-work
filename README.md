@@ -9,9 +9,9 @@
 
 I’m passionate about wireless communication systems and network technologies, with a strong academic foundation in:
 
-- 📕 **4G/LTE and 5G Technologies**
-- 🌐 **Computer Networking (Routing, Switching, Protocols)**
-- 📊 **Data Analysis & Simulation Techniques**
+- **4G/LTE and 5G Technologies**
+- **Computer Networking (Routing, Switching, Protocols)**
+- **Data Analysis & Simulation Techniques**
 
 Currently, I enjoy working on projects that blend **telecommunication theory** with **practical simulation and data analysis**, often using tools like **MATLAB**, **Python**, and **Excel**.
 
