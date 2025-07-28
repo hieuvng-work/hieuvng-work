@@ -33,17 +33,16 @@ Currently, I enjoy working on projects that blend **telecommunication theory** w
 ## 📈 Current Focus
 
 I'm exploring:
-- Monte Carlo simulations for uplink **MU-MIMO** performance
+- Linear Processing Techniques in Multi-User Massive MIMO Systems
 - **Power control algorithms** in fading environments
-- Application of **routing protocols** (OSPF, RIPng) in enterprise networks
-- **DPCM** and **Delta Modulation** techniques
+- Study on 3GPP channel model
 
 ---
 
 ## 📫 Let's Connect
 
 Feel free to check out my repositories and connect if you’re interested in similar fields!  
-📧 [hieunguyen.020403@gmail.com]  
+📧 [ngvhieuwork@gmail.com]  
 🔗 [www.linkedin.com/in/ngvhieu]
 
 ---
