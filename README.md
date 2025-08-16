@@ -26,7 +26,6 @@ Currently, I enjoy working on projects that blend **telecommunication theory** w
   - Wireless Communication (4G/LTE, 5G,...)  
   - Network Design & Simulation  
   - Data Analysis & Visualization  
-  - Modulation & Signal Processing Techniques
 
 ---
 
