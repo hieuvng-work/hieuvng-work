@@ -32,9 +32,10 @@ Currently, I enjoy working on projects that blend **telecommunication theory** w
 ## 📈 Current Focus
 
 I'm exploring:
-- Linear Processing Techniques in Multi-User Massive MIMO Systems
-- **Power control algorithms** in fading environments
+- Linear Processing Techniques in Massive MIMO Systems
+- Power control algorithms in fading environments
 - Study on 3GPP channel model
+- outage probability in Massive MIMO
 
 ---
 
